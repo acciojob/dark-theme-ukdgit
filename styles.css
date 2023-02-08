@@ -1,11 +1,12 @@
-#main {
+#app {
 	justify-content: flex;
 	text-align: center;
+	height: 100vh;
 }
 
 #ptag {
 	color: rgb(0,256,256,256);
 }
-.dark {
+.night {
 	background: rgb(0,0,0,1);
 }
